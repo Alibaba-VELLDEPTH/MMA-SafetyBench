@@ -6,10 +6,10 @@
 **NeurIPS 2026 · Evaluations and Datasets Track · Poster**
 
 [Yuke Wang](https://openreview.net/profile?id=~Yuke_Wang6)<sup>2,*</sup> · [Benlei Cui](https://openreview.net/profile?id=~Benlei_Cui1)<sup>1,*</sup> · [Shen Pang](https://openreview.net/profile?id=~Shen_Pang1)<sup>2</sup> · [Xuemei Dong](https://openreview.net/profile?id=~Xuemei_Dong1)<sup>2,†</sup> · [Longtao Huang](https://openreview.net/profile?id=~Longtao_Huang2)<sup>1</sup><br>
-[Hui Xue](https://openreview.net/profile?id=~Hui_Xue5)<sup>1</sup> · [Yuwen Zhai](https://openreview.net/profile?id=~Yuwen_Zhai1)<sup>1</sup> · [Junjie Li](https://openreview.net/profile?id=~Junjie_Li31)<sup>4</sup> · [Jingqun Tang](https://openreview.net/profile?id=~Jingqun_Tang1)<sup>3</sup> · [Haiwen Hong](https://openreview.net/profile?id=~Haiwen_Hong1)<sup>1</sup>
+[Hui Xue](https://openreview.net/profile?id=~Hui_Xue5)<sup>1</sup> · [Yuwen Zhai](https://openreview.net/profile?id=~Yuwen_Zhai1)<sup>1</sup> · [Junjie Li](https://openreview.net/profile?id=~Junjie_Li31)<sup>1</sup> · [Jingqun Tang](https://openreview.net/profile?id=~Jingqun_Tang1)<sup>3</sup> · [Haiwen Hong](https://openreview.net/profile?id=~Haiwen_Hong1)<sup>1</sup>
 
 <sup>1</sup> Yuvion Team, Alibaba Group · <sup>2</sup> Zhejiang Gongshang University<br>
-<sup>3</sup> Ant Group · <sup>4</sup> Alibaba Group<br>
+<sup>3</sup> Ant Group<br>
 <sub>* Equal contribution · † Corresponding author</sub>
 
 [![Dataset](https://img.shields.io/badge/🤗_Hugging_Face-Dataset-FFD21E?style=flat-square)](https://huggingface.co/datasets/Alibaba-YuFeng/MMA-SafetyBench)
